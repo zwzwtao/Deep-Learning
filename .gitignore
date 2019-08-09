@@ -107,3 +107,6 @@ venv.bak/
 # picture files
 .png
 .jpg
+
+#
+.tfrecords
