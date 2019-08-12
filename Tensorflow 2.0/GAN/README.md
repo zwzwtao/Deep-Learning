@@ -1,6 +1,6 @@
 # Anime Character Generator
 
-Training progress:<br>
+
 <img src="https://github.com/AidenOdas/Deep-Learning/blob/master/Tensorflow%202.0/GAN/pictures/IMG_2259.GIF" width=300 height=300>
 
 
@@ -15,4 +15,6 @@ GAN
 WGAN
 * GP factor for WGAN is set to 10
 
-* Variaty of generated pictures is bigger than which of GAN.
+* Learning rate for discriminator is set to 0.005, and 0.002 for generator.
+
+* Training strategy: the generator learns each time after discriminator being trained for 5 epochs.
