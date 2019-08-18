@@ -1,7 +1,7 @@
 # Anime Character Generator
 
 
-<img src="https://github.com/AidenOdas/Deep-Learning/blob/master/Tensorflow%202.0/GAN/pictures/IMG_2259.GIF" width=300 height=300>
+<img src="https://github.com/AidenOdas/Deep-Learning/blob/master/Tensorflow%202.0/GAN/pictures/IMG_2259.GIF" width=470 height=470>
 
 
 trained on 50 thousand anime character pictures
